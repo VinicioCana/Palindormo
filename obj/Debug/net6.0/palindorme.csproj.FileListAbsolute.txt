@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\palindorme\palindorme\bin\Debug\net6.0\palindorme.exe
+C:\Users\DELL\source\repos\palindorme\palindorme\bin\Debug\net6.0\palindorme.dll
+C:\Users\DELL\source\repos\palindorme\palindorme\obj\Debug\net6.0\palindorme.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\palindorme\palindorme\obj\Debug\net6.0\palindorme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\palindorme\palindorme\obj\Debug\net6.0\palindorme.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\palindorme\palindorme\obj\Debug\net6.0\palindorme.AssemblyInfo.cs
+C:\Users\DELL\source\repos\palindorme\palindorme\obj\Debug\net6.0\palindorme.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\palindorme\palindorme\obj\Debug\net6.0\palindorme.dll
+C:\Users\DELL\source\repos\palindorme\palindorme\obj\Debug\net6.0\refint\palindorme.dll
+C:\Users\DELL\source\repos\palindorme\palindorme\obj\Debug\net6.0\palindorme.pdb
+C:\Users\DELL\source\repos\palindorme\palindorme\bin\Debug\net6.0\palindorme.deps.json
+C:\Users\DELL\source\repos\palindorme\palindorme\bin\Debug\net6.0\palindorme.runtimeconfig.json
+C:\Users\DELL\source\repos\palindorme\palindorme\bin\Debug\net6.0\palindorme.pdb
+C:\Users\DELL\source\repos\palindorme\palindorme\obj\Debug\net6.0\palindorme.genruntimeconfig.cache
+C:\Users\DELL\source\repos\palindorme\palindorme\obj\Debug\net6.0\ref\palindorme.dll
